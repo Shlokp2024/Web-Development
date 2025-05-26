@@ -1,0 +1,22 @@
+#box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid green;
+    background-color: red;
+    
+}
+
+#img{
+    height: 200px;
+    width: 200px;
+}
+
+#twoimg{
+    height: 200px;
+    width: 200px;
+}
+
+#slideshow{
+    height: 200px;
+    width: 400px;
+}
